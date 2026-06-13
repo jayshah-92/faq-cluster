@@ -16,7 +16,7 @@ Instead of manually curating thousands of queries, FAQ Extractor generates a rea
 ## 📑 Table of Contents
 
 - [Quora Mind](#quora-mind)
-  - [📑 Table of Contents](#-table-of-contents)
+  - [Table of Contents](#-table-of-contents)
   - [Features](#features)
   - [Technology Stack](#technology-stack)
   - [Demo and Preview](#demo-and-preview)
@@ -146,4 +146,4 @@ For questions or collaboration:
 
 * **Author**: Jay Shah
 * **Email**: [jayshah92.ca@gmnail.com](mailto:jayshah92.ca@gmail.com)
-* **GitHub**: [Jay-Shah-92](https://github.com/Jay-Shah-92)
+* **GitHub**: [jayshah-92](https://github.com/jayshah-92)
