@@ -145,5 +145,5 @@ This project is licensed under the [MIT License](LICENSE).
 For questions or collaboration:
 
 * **Author**: Jay Shah
-* **Email**: [jayshah92.ca@gmnail.com](mailto:jayshah92.ca@gmail.com)
+* **Email**: [imjayshah2002@gmnail.com](mailto:imjayshah2002@gmail.com)
 * **GitHub**: [jayshah-92](https://github.com/jayshah-92)
