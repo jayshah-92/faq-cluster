@@ -70,8 +70,8 @@ Instead of manually curating thousands of queries, FAQ Extractor generates a rea
 
 ```bash
 # Clone repo
-git clone https://github.com/Jay-Shah--92/faq-extractor.git
-cd faq-extractor
+git clone https://github.com/jayshah-92/faq-cluster.git
+cd faq-cluster
 
 # Create & activate virtual environment
 python -m venv venv
